@@ -70,16 +70,6 @@
 
 </div>
 
-<div align="center">
-<br>
-<br>
-<br>
-<br>
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjosefa-santana&s=60&c=3d227c&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits" /></p> 
-<br>
-</div>
 
 <div align="center">
 <a href="https://ko-fi.com/carolinebarbosa" target="_blank">
